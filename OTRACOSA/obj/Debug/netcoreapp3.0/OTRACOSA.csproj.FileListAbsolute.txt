@@ -1,0 +1,11 @@
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\bin\Debug\netcoreapp3.0\OTRACOSA.exe
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\bin\Debug\netcoreapp3.0\OTRACOSA.deps.json
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\bin\Debug\netcoreapp3.0\OTRACOSA.runtimeconfig.json
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\bin\Debug\netcoreapp3.0\OTRACOSA.runtimeconfig.dev.json
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\bin\Debug\netcoreapp3.0\OTRACOSA.dll
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\bin\Debug\netcoreapp3.0\OTRACOSA.pdb
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\obj\Debug\netcoreapp3.0\OTRACOSA.csprojAssemblyReference.cache
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\obj\Debug\netcoreapp3.0\OTRACOSA.AssemblyInfoInputs.cache
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\obj\Debug\netcoreapp3.0\OTRACOSA.AssemblyInfo.cs
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\obj\Debug\netcoreapp3.0\OTRACOSA.dll
+C:\Users\formacio\source\repos\OTRACOSA\OTRACOSA\obj\Debug\netcoreapp3.0\OTRACOSA.pdb
