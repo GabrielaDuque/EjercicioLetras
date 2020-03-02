@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,7 +28,7 @@ namespace OTRACOSA
             letra[6] = 'l';
             letra[7] = 'a';
 
-           
+
 
 
             for (int i = 0; i < letra.Length; i++)
@@ -52,7 +52,7 @@ namespace OTRACOSA
             lista.Add('l');
             lista.Add('a');
 
-           
+
 
             for (int i = 0; i < letra.Length; i++)
 
@@ -77,24 +77,38 @@ namespace OTRACOSA
 
             //Fase 3 Dictionary y cuantas veces aparece cada caracter
 
-            Dictionary<string, int> letras = new Dictionary<string, int>();
+
+          
 
 
-            letras.Add("g", 1);
-            letras.Add("a", 2);
-            letras.Add("b", 1);
-            letras.Add("r", 1);
-            letras.Add("i", 1);
-            letras.Add("e", 1);
-            letras.Add("l", 1);
+            Dictionary<char, int> myDic = new Dictionary<char, int>();
 
 
 
-            foreach (KeyValuePair<string, int> product in letras)
+           
+
+            foreach (var mychar in lista)
+
+
+
             {
-
-                Console.WriteLine("letra:  " + product.Key + " " + "cantidad de veces que se muestra:  " + " " + product.Value);
+                if (!myDic.ContainsKey(mychar))
+                
+                    myDic.Add(mychar, 1);
+                
+                else
+                {
+                    myDic[mychar]++;
+                }
             }
+        
+
+            foreach (var mychar in myDic)
+            {
+                Console.WriteLine(mychar);
+            }
+    Console.Read();
+            
             Console.ReadKey();
 
 
@@ -111,7 +125,7 @@ namespace OTRACOSA
             apellido.Add('u');
             apellido.Add('e');
 
-           
+
 
             Console.ReadKey();
 
@@ -123,6 +137,5 @@ namespace OTRACOSA
 
 
         }
-}
     }
-
+}
